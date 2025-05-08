@@ -1,2 +1,4 @@
 # Smart-Teaching-System
 This project aims to develop a smart teaching system tailored for primary school teachers and students, comprising two components: an alphabet recognition system utilizing motion gesture and a smart image generator. 
+The alphabet recognition system will enable students to learn and practice the alphabet through gestures. By utilizing MNIST dataset training, the Keras library and OpenCV, this component offers a splendid educational experience that captivates young minds.
+Complementing the alphabet recognition system, the smart image generator component empowers teachers with a powerful tool to generate visually compelling and customized educational graphics. By using ControlNet, a neural network architecture and an interactive whiteboard, this component can generate a wide range of high-quality images based on custom input to pique the curiosity of young learners.
